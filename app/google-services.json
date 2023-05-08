@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1016530843931",
+    "project_id": "qarz-daftarchasi",
+    "storage_bucket": "qarz-daftarchasi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1016530843931:android:28ad5a714e17477e827bbe",
+        "android_client_info": {
+          "package_name": "uz.gita.qarzdaftarchasi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1016530843931-nh1eq3uod2d0sfge5qc2tvs1n589f02i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWKogxdVhL9foo96sN59CjOPPQUJUaCU8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1016530843931-nh1eq3uod2d0sfge5qc2tvs1n589f02i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
